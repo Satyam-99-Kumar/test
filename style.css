@@ -6,6 +6,8 @@
 }
 
 body {
+  test: 245px;
+  height : 123px;
   height: 100px;
   background: linear-gradient(135deg, #667eea, #764ba2);
   display: flex;
